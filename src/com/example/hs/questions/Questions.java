@@ -17,7 +17,7 @@ public class Questions {
 	/** ��һD **/
 	private String AS_D;
 	/** ��һE **/
-	private String AS_F;
+	private String AS_E;
 
 	public String getQS_Name() {
 		return QS_Name;
@@ -59,11 +59,13 @@ public class Questions {
 		AS_D = aS_D;
 	}
 
-	public String getAS_F() {
-		return AS_F;
+	public String getAS_E() {
+		return AS_E;
 	}
 
-	public void setAS_F(String aS_F) {
-		AS_F = aS_F;
+	public void setAS_E(String aS_E) {
+		AS_E = aS_E;
 	}
+
+
 }
